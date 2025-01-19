@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @user-xixiboliya
 
-- 👀 I’m interested in ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
+- 👀 I’m interested in ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)
+
 
 - 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=Ros&logoColor=FFFFFF)
 
