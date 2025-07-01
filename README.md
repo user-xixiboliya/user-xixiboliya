@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @user-xixiboliya
+> ✨你好呀～✨
 
-- 👀 I’m interested in ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)
+I'm a student in Xi'an Jiaotong University,China. And welcome to Xi'an,which is a brilliant ancient city I have ever seen!
 
+*My personal blog is* [Bertsin's home](https://user-xixiboliya.github.io)
 
-- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=Ros&logoColor=FFFFFF) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+# 👀 Things I’m interested in 
+![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)
 
-
+# 🌱 Things I’m currently learning 
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=Ros&logoColor=FFFFFF) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 
 - 💞️ I’m a student in Xi'an Jiaotong University
 
