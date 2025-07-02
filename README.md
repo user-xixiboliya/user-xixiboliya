@@ -1,6 +1,6 @@
 > ✨你好呀～✨
 
-I'm a student in Xi'an Jiaotong University,China. And welcome to Xi'an,which is a brilliant ancient city I have ever seen!
+I'm a student in Xi'an Jiaotong University,China. And welcome to Xi'an,which is the most brilliant ancient city I have ever seen!
 
 *My personal blog is* [Bertsin's home](https://user-xixiboliya.github.io)
 
