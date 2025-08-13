@@ -4,6 +4,7 @@ I'm a student in Xi'an Jiaotong University,China. And welcome to Xi'an,which is 
 
 *My personal blog is* [Bertsin's home](https://user-xixiboliya.github.io)
 
+And the documentation website for the Robocon robotics team that I’m in charge of is [RC Home](https://xjturc.vercel.app/)
 - 👀 Things I’m interested in:
 
  ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000) ![Static Badge](https://img.shields.io/badge/windows-%23149EF2?style=for-the-badge&logo=microsoft) ![Static Badge](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Static Badge](https://img.shields.io/badge/robocon-%236CB86A?style=for-the-badge&logo=irobot&logoColor=white) ![Static Badge](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian)  ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=Ros&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
